@@ -1,0 +1,13 @@
+ Volume in drive D is Local Disk 
+ Volume Serial Number is 842D-8820
+
+ Directory of D:\Testing Tools and Jars\Jenkins\workspace\HelloWorld
+
+13-05-2018  17:01    <DIR>          .
+13-05-2018  17:01    <DIR>          ..
+13-05-2018  16:40               676 Hello.class
+13-05-2018  16:02               136 Hello.java
+13-05-2018  17:01                 0 newTest.txt
+13-05-2018  16:39               468 readme.txt
+               4 File(s)          1,280 bytes
+               2 Dir(s)  19,729,522,688 bytes free
