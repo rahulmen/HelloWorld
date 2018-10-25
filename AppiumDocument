@@ -1,4 +1,26 @@
 Q) Command to run created emulator from cmd :-
 A) Go to platformtools folder and run command "emulator -avd <Emulator_Name>"
 
-Q) 
+Note :- npm is a command line used to download all node module.
+
+Add NodeJS home and npn/bin in PATH variable.
+
+You can download any node module using npm.
+
+Command to install Appium usimg npm "npm install -g appium"
+Always give us stable version
+
+Run "appium" command toi run appium on your machine
+
+To uninstall appium "npm uninstall -g appium"
+
+To install any specific version
+"npn install -g appium@beta --no-shrinkwrap"
+
+
+
+
+
+
+
+
