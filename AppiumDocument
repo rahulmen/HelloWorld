@@ -1,0 +1,4 @@
+Q) Command to run created emulator from cmd :-
+A) Go to platformtools folder and run command "emulator -avd <Emulator_Name>"
+
+Q) 
